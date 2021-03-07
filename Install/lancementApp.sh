@@ -1,0 +1,1 @@
+java -Xms256M -Xmx256M -Dspring.config.location=/home/laurent/openMoney/resources/ -jar /home/laurent/openMoney/openmoney-exposition-0.1.0-SNAPSHOT.war
